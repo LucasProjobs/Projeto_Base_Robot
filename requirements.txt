@@ -1,0 +1,7 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-browser
+robotframework-faker
+robotframework-debug
+robotframework-robocop
+selenium
