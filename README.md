@@ -6,14 +6,14 @@ Este projeto é uma base para automação de testes utilizando o Robot Framework
 
 ## Estrutura do Projeto
 
-base-robot/
-├── tests/             # Contém os arquivos de testes .robot
-├── src/               # Contém recursos compartilhados, como arquivos .resource
-├── reports/           # Diretório onde os relatórios de testes serão salvos
-├── fixtures/          # Scripts e arquivos de suporte
-├── requirements.txt   # Lista de dependências do projeto
-├── Dockerfile         # Arquivo Docker para configuração do ambiente
-└── README.md          # Este arquivo
+    - base-robot/
+    - ├── tests/             # Contém os arquivos de testes .robot
+    - ├── src/               # Contém recursos compartilhados, como arquivos .resource
+    - ├── reports/           # Diretório onde os relatórios de testes serão salvos
+    - ├── fixtures/          # Scripts e arquivos de suporte
+    - ├── requirements.txt   # Lista de dependências do projeto
+    - ├── Dockerfile         # Arquivo Docker para configuração do ambiente
+    - └── README.md          # Este arquivo
 
 ## Pré-requisitos
 
@@ -23,10 +23,10 @@ base-robot/
 
 # **Instalação**
 
-Clone o repositório:
+## Clone o repositório:
 
-git clone ["link do repositório"]
-cd base-robot
+    - git clone ["link do repositório"]
+    - cd base-robot
 
 ## Crie um ambiente virtual
     - Em Windows:
